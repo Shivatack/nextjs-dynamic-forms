@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project used as a tutorial to demonstrate how to use server actions with toasts to create a dynamic form.
+This is a [Next.js](https://nextjs.org/) project used as a [Medium tutorial](https://medium.com/@ayoub.azaroual/dynamic-forms-using-next-js-9bdba495c34f) to demonstrate how to use server actions with toasts to create a dynamic form.
 
 ## Getting Started
 
